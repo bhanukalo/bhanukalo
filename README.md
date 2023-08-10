@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bhanukalo
-- 👀 I’m interested in web developing frontend and backend.
+- 👀 I’m interested in web developing frontend and backend and learning data structure and algorithms.
 - 🌱 I’m currently learning data structure and algorithms.
 - 💞️ I’m looking to collaborate on web developer with many projects.
 - 📫 How to reach me contact me mail - bhanukalo19@gmail.com 
